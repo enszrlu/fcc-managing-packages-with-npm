@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Enes Zorlu"
+	"author": "Enes Zorlu",
+	"description": "A project prepared for FCC Back End Development"
 }
